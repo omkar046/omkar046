@@ -1,3 +1,4 @@
 ## Session Git
-Kunal Sharma
-Aayush
+  - Kunal Sharma
+  - Aayush
+  - Anurag
